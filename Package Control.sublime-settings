@@ -7,6 +7,9 @@
 	[
 		"All Autocomplete",
 		"Package Control",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby"
 	]
 }
