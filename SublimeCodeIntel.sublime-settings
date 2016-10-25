@@ -1,0 +1,9 @@
+{
+  "codeintel_language_settings": {
+    "Ruby": {
+      "ruby": "`/usr/local/bin/rbenv which ruby` \"$@\"",
+      "codeintel_scan_extra_dir": ["/usr/local/opt/rbenv/gems"],
+      "codeintel_scan_files_in_project": true,
+    }
+  }
+}
