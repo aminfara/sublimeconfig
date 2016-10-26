@@ -7,6 +7,8 @@
 	[
 		"All Autocomplete",
 		"BracketHighlighter",
+		"Git",
+		"GitGutter",
 		"Package Control",
 		"Pretty Ruby",
 		"RSpec",
