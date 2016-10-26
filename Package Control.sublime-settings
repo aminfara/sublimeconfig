@@ -16,6 +16,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
-		"SublimeLinter-ruby"
+		"SublimeLinter-ruby",
+		"Surround",
+		"Vintage Surround"
 	]
 }

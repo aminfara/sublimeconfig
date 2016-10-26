@@ -3,7 +3,6 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"ignored_packages":
 	[
-		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"spell_check": true,
