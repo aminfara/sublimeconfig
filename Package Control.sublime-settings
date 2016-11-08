@@ -18,10 +18,12 @@
 		"Ruby on Rails snippets",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"SublimeLinter-rubocop",
 		"SublimeLinter-ruby",
 		"SublimeREPL",
 		"Surround",
-		"Vintage Surround"
+		"Vintage Surround",
+		"zz File Icons"
 	]
 }
